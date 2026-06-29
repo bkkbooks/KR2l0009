@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2l0009/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書史部十二
+  hash: sha256:683b84fba18cbfaf1b4f7fb7adb0cf04b078729870de9e8d06bf823f11967f61
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2l0009_WYG_000-1a, image: WYG0596/WYG0596-0859a.png}
+body:
+  text: 翰林記職官類一官制之屬提要臣等謹案翰林記二十卷原本不著撰人名氏專載有明一代翰林掌故始自洪武迄於正徳嘉靖間每事各有標目凡二百二十六條本末賅具首尾貫穿叙次頗為詳悉如所紀殿閣卿寺轉銜與明㑹典諸書互有同異又㑹議繕寫諸條制度甚詳均足以備考核其十七十八兩巻具列館閣題名尤足以見一代人材升降之概案明史藝文志載黄佐有翰林記二十卷而廖道南殿閣詞林記序有與泰泉黄佐纂翰林雜記之語則是書為出佐手無疑葢道南與佐同年進士又同在詞垣故九卷以後多採佐書以足成之而以此本互相檢核則其文不盡相合葢道南又有所㸃竄惟此為佐原本較為完贍以繼李肇程俱陳騤王士㸃諸人所作而唐宋以來詞林故事乃畧備矣佐字才伯香山人正徳辛巳進士改庶吉士授編修厯官詹事府少詹事諡文裕事蹟具明史文苑𫝊所著有樂典諸書俱别著錄云乾隆四十三年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:455b14e07bd4b0a5e9b467403f915f2d1d7c614b2792bf418756e76a43a8d1e0
+metadata:
+  title: 翰林記
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:48:06.489564'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR2l0009/KR2l0009_000.txt
+hash: sha256:aac45d93d885289eec5e5ec3beeb8ec3ac9e506bf8e7104e07391d241021beb5
